@@ -23,7 +23,7 @@
     <ol>
         <li>Clone the repository:</li>
     </ol>
-    <pre><code>git clone https://github.com/yourusername/vaccination-check-gui.git</code></pre>
+    <pre><code>git clone https://github.com/udithanuwanw/Vaccination-Check-Python.git</code></pre>
     <ol start="2">
         <li>Navigate to the project directory:</li>
     </ol>
