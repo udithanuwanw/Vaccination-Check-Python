@@ -300,7 +300,7 @@ submit_button.place(x=10,y=500)
 
 
 
-
+#Import file function
 def import_file():
 
 
@@ -342,7 +342,7 @@ def import_file():
 
 
                 
-
+#Export file function
 def export_file():
 
     selected_folder = filedialog.askdirectory()
