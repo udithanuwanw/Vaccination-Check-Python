@@ -15,7 +15,7 @@
   <h2>Prerequisites</h2>
     <p>Before running this application, ensure you have the following installed:</p>
     <ul>
-        <li>Python 3.x</li>
+        <li>Python</li>
         <li>MySQL</li>
         <li>Required Python packages listed in <code>requirements.txt</code></li>
     </ul>
